@@ -1,8 +1,6 @@
 # Hi there! 👋 I'm Vansh Salgotra (he/him)
 
 I'm currently pursuing my B.Tech and learning full-stack web development.  
-Right now, I'm focusing on improving my skills in:
-
 
 ## 🚀 What I'm Doing Right Now
 
