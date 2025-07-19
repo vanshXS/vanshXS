@@ -38,7 +38,7 @@ Postman, Git, GitHub, VS Code, IntelliJ IDEA, Framer Motion, Zustand
 
 ## 🤝 Let's Connect
 
-- ✉️ Email: vanshsalgotra.dev@gmail.com  
+- ✉️ Email: vnshsalgotra@gmail.com  
 - 💻 Always open for collaboration on meaningful projects
 
 ---
