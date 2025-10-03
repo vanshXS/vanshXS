@@ -19,7 +19,7 @@
 ## 🚀 Tech Stack
 
 **Languages:**  
-Java, JavaScript, TypeScript, SQL
+Java, JavaScript,  SQL
 
 **Backend:**  
 Spring Boot, Spring MVC, Spring Security, REST API, JWT, JPA/Hibernate
@@ -31,7 +31,7 @@ React.js, Next.js, Tailwind CSS, shadcn/ui
 MySQL, PostgreSQL
 
 **Tools & Platforms:**  
-Postman, Git, GitHub, VS Code, IntelliJ IDEA, Framer Motion, Zustand
+Postman, GitHub, VS Code, IntelliJ IDEA
 
 ---
 
@@ -39,15 +39,9 @@ Postman, Git, GitHub, VS Code, IntelliJ IDEA, Framer Motion, Zustand
 ## 🤝 Let's Connect
 
 - ✉️ Email: vnshsalgotra@gmail.com  
-- 💻 Always open for collaboration on meaningful projects
+
 
 ---
 
-## 💡 Fun Fact
 
-> I believe great backend systems are like magic tricks — invisible, efficient, and make everything feel seamless on the outside.
-
----
-
-_Thanks for stopping by!_
 
