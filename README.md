@@ -28,7 +28,7 @@ Spring Boot, Spring MVC, Spring Security, REST API, JWT, JPA/Hibernate
 React.js, Next.js, Tailwind CSS, shadcn/ui
 
 **Databases:**  
-MySQL, PostgreSQL
+MySQL
 
 **Tools & Platforms:**  
 Postman, GitHub, VS Code, IntelliJ IDEA
