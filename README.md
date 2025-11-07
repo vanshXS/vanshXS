@@ -19,13 +19,13 @@
 ## 🚀 Tech Stack
 
 **Languages:**  
-Java, JavaScript,  SQL
+Java, JavaScript,SQL
 
 **Backend:**  
 Spring Boot, Spring MVC, Spring Security, REST API, JWT, JPA/Hibernate
 
 **Frontend:**  
-React.js, Next.js, Tailwind CSS, shadcn/ui
+React.js, Next.js, Tailwind CSS
 
 **Databases:**  
 MySQL
